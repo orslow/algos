@@ -1,3 +1,3 @@
 # algos
 
-one per day
+one per week?
